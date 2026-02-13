@@ -22,7 +22,7 @@ I am proficient or learning these languages, engines:
 
 <br>
 
-<a href="https://github.com/sams7891/trash_gang">
+<a href="https://github.com/sams7891/trash_gang" target="_blank">
   <img width="1363" height="484" alt="Screenshot 2026-02-13 020227" src="https://github.com/user-attachments/assets/a3179384-08b9-4c1a-9b1f-eaffc19bc61e" />
 </a>
 
@@ -40,7 +40,7 @@ This project was developed for Liepājas RAS competition.
 
 <br>
 
-<a href="https://github.com/eclipsevoidd/ProjektsLiepaja">
+<a href="https://github.com/eclipsevoidd/ProjektsLiepaja" target="_blank">
   <img width="2870" height="1312" alt="liepaja" src="https://github.com/user-attachments/assets/a09e34d0-5db6-44ae-b76a-277816326566" />
 </a>
 
