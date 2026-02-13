@@ -53,4 +53,3 @@ This project was developed for Liepājas RAS competition.
 This project was developed for Rīgas Tehniskās Universitātes Liepājas akadēmijas olympiad.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sams7891)](https://github.com/sams7891/github-readme-stats)
