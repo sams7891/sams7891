@@ -7,10 +7,11 @@ I am proficient or learning these languages, engines:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="70"/>
+  <img src="https://github.com/user-attachments/assets/c334e95c-3b7e-4d85-b818-fc142974a102" width="70"/>
   <img src="https://github.com/user-attachments/assets/6b04d2aa-6d2b-490a-934c-67055fced649" width="70"/>
   <img src="https://github.com/user-attachments/assets/5493feed-6541-4690-83e0-bfab4fe3050f" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" width="70"/>
-  <img src="https://github.com/user-attachments/assets/2dbe36d5-a781-4e93-8396-0475f1277289" width="70"/>
+  <img src="https://github.com/user-attachments/assets/0b028e3c-707f-4a82-a48b-fed897af6694" width="70"/>
+  <img src="https://github.com/user-attachments/assets/314a7e0e-21bb-420e-a9c7-57b87d4aeda9" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70"/>
 </p>
@@ -34,6 +35,9 @@ I am proficient or learning these languages, engines:
 ### Reason for development
 This project was developed for Liepājas RAS competition.
 
+### Extras
+[![Download Trash Game](https://img.shields.io/badge/Download-Trash%20Game%20v1.1-brightgreen)](https://github.com/sams7891/trash_gang/releases/download/v1.1/Trash.game.rar)
+
 <hr>
 
 ### Ekskursija pa Liepāju 🚌
@@ -52,4 +56,7 @@ This project was developed for Liepājas RAS competition.
 ### Reason for development
 This project was developed for Rīgas Tehniskās Universitātes Liepājas akadēmijas olympiad.
 
+### Extras
+You can see my personal devlogs on my youtube channel <a href="https://www.youtube.com/watch?v=DETwRKBLWJE&list=PLfsxPFFsrEJlhroKNrNmwSknovTsZatNl"><img width="20" src="https://github.com/user-attachments/assets/19fa7fac-71b6-45d4-9f11-457468783a85" />
+</a>
 
