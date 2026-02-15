@@ -14,6 +14,12 @@ I am proficient or learning these languages, engines:
   <img src="https://github.com/user-attachments/assets/314a7e0e-21bb-420e-a9c7-57b87d4aeda9" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70"/>
+  <img src="https://github.com/user-attachments/assets/f65518fc-1c3b-4768-aa8f-96484452c5e7" width="70"/>
+
+
+
+
+
 </p>
 
 
