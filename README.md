@@ -42,6 +42,7 @@ I am proficient or learning these languages, engines:
 This project was developed for Liepājas RAS competition.
 
 ### Extras
+Made using Unity and C#.
 [![Download Trash Game](https://img.shields.io/badge/Download-Trash%20Game%20v1.1-brightgreen)](https://github.com/sams7891/trash_gang/releases/download/v1.1/Trash.game.rar)
 
 <hr>
@@ -63,6 +64,7 @@ This project was developed for Liepājas RAS competition.
 This project was developed for Rīgas Tehniskās Universitātes Liepājas akadēmijas olympiad.
 
 ### Extras
+Made using Gamemaker and GML lamguage.
 You can see my personal devlogs on my youtube channel <a href="https://www.youtube.com/watch?v=DETwRKBLWJE&list=PLfsxPFFsrEJlhroKNrNmwSknovTsZatNl"><img width="20" src="https://github.com/user-attachments/assets/19fa7fac-71b6-45d4-9f11-457468783a85" />
 </a>
 
