@@ -65,6 +65,6 @@ This project was developed for Rīgas Tehniskās Universitātes Liepājas akadē
 
 ### Extras
 Made using Gamemaker and GML lamguage.
-You can see my personal devlogs on my youtube channel <a href="https://www.youtube.com/watch?v=DETwRKBLWJE&list=PLfsxPFFsrEJlhroKNrNmwSknovTsZatNl"><img width="20" src="https://github.com/user-attachments/assets/19fa7fac-71b6-45d4-9f11-457468783a85" />
+You can see my personal devlogs on my youtube channel <a target="_blamk" href="https://www.youtube.com/watch?v=DETwRKBLWJE&list=PLfsxPFFsrEJlhroKNrNmwSknovTsZatNl"><img width="20" src="https://github.com/user-attachments/assets/19fa7fac-71b6-45d4-9f11-457468783a85" />
 </a>
 
