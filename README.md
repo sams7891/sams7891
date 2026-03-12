@@ -15,12 +15,15 @@ I am proficient or learning these languages, engines:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70"/>
   <img src="https://github.com/user-attachments/assets/f65518fc-1c3b-4768-aa8f-96484452c5e7" width="70"/>
-
-
-
-
-
 </p>
+
+## Team expierience
+I also have expierience working on the later mentioned major projects with other people using the GIT and GitHub version control systems.
+
+Our teams name is ***"Trash and the gang"***
+You can check their wonderfull GitHub profiles and their projects here: 
+
+<a href="https://github.com/sams7891" target="_blank">Rodrigo</a> and <a href="https://github.com/eclipsevoidd" target="_blank">Gustavs</a>
 
 
 ## Major projects:
@@ -32,8 +35,7 @@ I am proficient or learning these languages, engines:
 <a href="https://github.com/sams7891/trash_gang" target="_blank">
   <img width="1363" height="484" alt="Screenshot 2026-02-13 020227" src="https://github.com/user-attachments/assets/a3179384-08b9-4c1a-9b1f-eaffc19bc61e" />
 </a>
-
-<br>
+<p align="center"><em>Click the picture</em></p>
 
 ### Description
 "Šķirošanas banda" is a top-down 2D game developed in Unity, where you are given seven days to collect and properly sort trash by the end of the week.
@@ -55,8 +57,7 @@ Made using Unity and C#.
 <a href="https://github.com/eclipsevoidd/ProjektsLiepaja" target="_blank">
   <img width="2870" height="1312" alt="liepaja" src="https://github.com/user-attachments/assets/a09e34d0-5db6-44ae-b76a-277816326566" />
 </a>
-
-<br>
+<p align="center"><em>Click the picture</em></p>
 
 ### Apraksts
 "Eksursija pa Liepāju" is a game developed in GameMaker, where you must travel around Liepāja and complete mini-games at specific locations while learning about facts and history of thouse locations.
