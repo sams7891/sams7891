@@ -23,7 +23,7 @@ I also have expierience working on the later mentioned major projects with other
 Our teams name is ***"Trash and the gang"***
 You can check their wonderfull GitHub profiles and their projects here: 
 
-<a href="https://github.com/sams7891" target="_blank">Rodrigo</a> and <a href="https://github.com/eclipsevoidd" target="_blank">Gustavs</a>
+<a href="https://github.com/freezer909" target="_blank">Viktors</a> and <a href="https://github.com/eclipsevoidd" target="_blank">Gustavs</a>
 
 
 ## Major projects:
