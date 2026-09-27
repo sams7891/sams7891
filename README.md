@@ -7,41 +7,31 @@
 I am proficient in or currently learning these languages:
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/java" height="58" alt="Java" title="Java" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/lua" height="58" alt="Lua" title="Lua" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/c" height="58" alt="C" title="C" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/csharp" height="58" alt="C Sharp" title="C#" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5" height="58" alt="HTML5" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3" height="58" alt="CSS3" title="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript" height="58" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/php" height="58" alt="PHP" title="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 ## Frameworks
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/laravel" height="58" alt="Laravel" title="Laravel" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/aframe" height="58" alt="A-Frame" title="A-Frame" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/A--Frame-EF2D5E?style=for-the-badge&logo=aframe&logoColor=white" alt="A-Frame" />
 </p>
 
 ## Tools & engines
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/unity" height="58" alt="Unity" title="Unity" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gamemaker" height="58" alt="GameMaker" title="GameMaker" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql" height="58" alt="MySQL" title="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git" height="58" alt="Git" title="Git" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ## Team expierience
@@ -107,7 +97,7 @@ You can see my personal devlogs on my youtube channel <a target="_blamk" href="h
 <br>
 
 <a href="https://github.com/sams7891/hp-chromebook-to-14-g7-fedora-linux" target="_blank">
-  <img width="900" alt="HP Chromebook 14 G7 running Fedora Xfce" src="https://raw.githubusercontent.com/sams7891/hp-chromebook-to-14-g7-fedora-linux/master/images/08-fedora-xfce-live.jpg" />
+  <img width="900" alt="HP Chromebook 14 G7 running Fedora Xfce" src="https://raw.githubusercontent.com/sams7891/sams7891/master/assets/chromebook-fedora-cover.jpg" />
 </a>
 <p align="center"><em>Click the picture</em></p>
 
