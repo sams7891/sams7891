@@ -2,24 +2,46 @@
 
 # <p align="center"> Take a look around <br><br></p>
 
-## Languages:
-I am proficient or learning these languages, engines:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="70"/>
-  <img src="https://github.com/user-attachments/assets/c334e95c-3b7e-4d85-b818-fc142974a102" width="70"/>
-  <img src="https://github.com/user-attachments/assets/6b04d2aa-6d2b-490a-934c-67055fced649" width="70"/>
-  <img src="https://github.com/user-attachments/assets/5493feed-6541-4690-83e0-bfab4fe3050f" width="70"/>
-  <img src="https://github.com/user-attachments/assets/0b028e3c-707f-4a82-a48b-fed897af6694" width="70"/>
-  <img src="https://github.com/user-attachments/assets/314a7e0e-21bb-420e-a9c7-57b87d4aeda9" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="70"/>
-  <img src="https://github.com/user-attachments/assets/f65518fc-1c3b-4768-aa8f-96484452c5e7" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="70"/>
-          
+## Languages
+
+I am proficient in or currently learning these languages:
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/java" height="58" alt="Java" title="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/lua" height="58" alt="Lua" title="Lua" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/c" height="58" alt="C" title="C" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/csharp" height="58" alt="C Sharp" title="C#" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5" height="58" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3" height="58" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" height="58" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/php" height="58" alt="PHP" title="PHP" />
+</p>
+
+## Frameworks
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/laravel" height="58" alt="Laravel" title="Laravel" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/aframe" height="58" alt="A-Frame" title="A-Frame" />
+</p>
+
+## Tools & engines
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/unity" height="58" alt="Unity" title="Unity" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gamemaker" height="58" alt="GameMaker" title="GameMaker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql" height="58" alt="MySQL" title="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git" height="58" alt="Git" title="Git" />
 </p>
 
 ## Team expierience
@@ -78,3 +100,26 @@ You can see my personal devlogs on my youtube channel <a target="_blamk" href="h
 [![Download ProjektsLiepaja](https://img.shields.io/badge/Download-ProjektsLiepaja-brightgreen)](https://github.com/eclipsevoidd/ProjektsLiepaja/releases/latest)
 </a>
 
+<hr>
+
+### HP Chromebook 14 G7 → Fedora Linux 🐧
+
+<br>
+
+<a href="https://github.com/sams7891/hp-chromebook-to-14-g7-fedora-linux" target="_blank">
+  <img width="900" alt="HP Chromebook 14 G7 running Fedora Xfce" src="https://raw.githubusercontent.com/sams7891/hp-chromebook-to-14-g7-fedora-linux/master/images/08-fedora-xfce-live.jpg" />
+</a>
+<p align="center"><em>Click the picture</em></p>
+
+### Description
+A photo-assisted, model-specific guide documenting how I completely replaced ChromeOS on an HP Chromebook 14 G7 (DRAWMAN / Intel Jasper Lake) with MrChromebox UEFI Full ROM firmware and Fedora Xfce.
+
+### Reason for development
+I documented the full conversion while doing it myself so other owners of the same Chromebook can follow a tested path and avoid common firmware, write-protection, boot, and audio problems.
+
+### Extras
+Covers CR50 hardware write protection, stock firmware backup, MrChromebox UEFI Full ROM, Fedora installation, disk encryption, post-install updates, and Chromebook-specific audio troubleshooting.
+
+Made using Fedora Linux, MrChromebox/coreboot, GitHub and hardware troubleshooting.
+
+[![View Fedora conversion guide](https://img.shields.io/badge/View-Fedora%20Conversion%20Guide-51A2DA?logo=fedora&logoColor=white)](https://github.com/sams7891/hp-chromebook-to-14-g7-fedora-linux)
